@@ -1,0 +1,1 @@
+{"Normal": {"f1": 1.0, "precision": 1.0, "recall": 1.0}, "Attack": {"f1": 1.0, "precision": 1.0, "recall": 1.0}, "all": {"acc": 1.0}, "round": 9}
