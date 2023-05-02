@@ -3,8 +3,8 @@
 """
 # File       : main.py
 # Time       ：2023/4/21 22:43
-# Author     ：
-# Email      ：
+# Author     ：Linhan XU
+# Email      ：xulinhan1233@gmail.com
 # Description：
 """
 import copy
